@@ -39,8 +39,8 @@ registrarse, iniciar sesión, publicar temas, responderlos y más.
 1. Clonar el repositorio
 
    ```bash
-   git clone https://github.com/CleymerAvila/Foro-Hub-API
-   cd Foro-Hub-API
+   git clone https://github.com/carlosferreyra/HubApi
+   cd HubApi
 2. Configurar el entorno o editar el archivo application.properties para la conexión con tu base de datos
 
    ```yaml
