@@ -45,8 +45,8 @@ registrarse, iniciar sesión, publicar temas, responderlos y más.
 
    ```yaml
     spring.datasource.url=jdbc:postgresql://localhost:5432/foro_db
-    spring.datasource.username=user
-    spring.datasource.password=password
+    spring.datasource.username=[user]
+    spring.datasource.password=[password]
     spring.jpa.hibernate.ddl-auto=update
 
 3. Compilar y ejecutar el proyecto
